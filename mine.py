@@ -1,3 +1,4 @@
+# Author Mateus Pimenta
 from os import remove
 import time
 font = input("Digite o arquivo para filtrar (sem extensão .txt do arquivo)")
