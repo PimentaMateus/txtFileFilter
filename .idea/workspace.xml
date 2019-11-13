@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d113f62-8a52-4316-ade1-cf31540bd88f" name="Default Changelist" comment="">
+    <list default="true" id="4d113f62-8a52-4316-ade1-cf31540bd88f" name="Default Changelist" comment="Merge branch 'master' of github.com:PimentaMateus/txtFileFilter&#10;&#10;# Conflicts:&#10;#&#9;.gitignore">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jetbrains.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mine.py" beforeDir="false" afterPath="$PROJECT_DIR$/mine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resultado/R_seaStableResult.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,16 +16,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mine.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+            <state relative-caret-position="40">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -65,8 +69,8 @@
         <option value="$PROJECT_DIR$/mine 3.0 - Copia.py" />
         <option value="$PROJECT_DIR$/mine 4.0.py" />
         <option value="$PROJECT_DIR$/mine5.0.py" />
-        <option value="$PROJECT_DIR$/mine.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/mine.py" />
       </list>
     </option>
   </component>
@@ -80,6 +84,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -87,11 +92,20 @@
               <item name="txtFileFilter" type="b2602c69:ProjectViewProjectNode" />
               <item name="txtFileFilter" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="txtFileFilter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="txtFileFilter" type="462c0819:PsiDirectoryNode" />
+              <item name="fontes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="txtFileFilter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="txtFileFilter" type="462c0819:PsiDirectoryNode" />
+              <item name="resultado" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -262,7 +276,8 @@
       <workItem from="1573189157776" duration="14000" />
       <workItem from="1573254055595" duration="243000" />
       <workItem from="1573256474452" duration="1959000" />
-      <workItem from="1573683191769" duration="256000" />
+      <workItem from="1573683191769" duration="501000" />
+      <workItem from="1573686040087" duration="489000" />
     </task>
     <task id="LOCAL-00001" summary="Secnd Version">
       <created>1573256802460</created>
@@ -313,17 +328,23 @@
       <option name="project" value="LOCAL" />
       <updated>1573683338794</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added Jetbrains GitIgnore">
+      <created>1573683590343</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1573683590344</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17296000" />
+    <option name="totallyTimeSpent" value="18030000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="0" width="1548" height="832" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20939597" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21208054" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -334,10 +355,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32952926" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32952926" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32952926" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -356,7 +377,10 @@
     <MESSAGE value="Mine 4.0" />
     <MESSAGE value="Mine 5.0" />
     <MESSAGE value="READ ME" />
-    <option name="LAST_COMMIT_MESSAGE" value="READ ME" />
+    <MESSAGE value="Added Jetbrains GitIgnore" />
+    <MESSAGE value="Final" />
+    <MESSAGE value="Merge branch 'master' of github.com:PimentaMateus/txtFileFilter&#10;&#10;# Conflicts:&#10;#&#9;.gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of github.com:PimentaMateus/txtFileFilter&#10;&#10;# Conflicts:&#10;#&#9;.gitignore" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Script_mine_python$mine_2_0.coverage" NAME="mine 2.0 Coverage Results" MODIFIED="1572053216303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -388,13 +412,6 @@
     <entry file="file://$PROJECT_DIR$/mine 3.0.py" />
     <entry file="file://$PROJECT_DIR$/mine 4.0.py" />
     <entry file="file://$PROJECT_DIR$/mine5.0.py" />
-    <entry file="file://$PROJECT_DIR$/mine.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -402,6 +419,13 @@
             <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
         </state>
       </provider>
     </entry>
